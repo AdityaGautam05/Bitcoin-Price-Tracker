@@ -1,16 +1,10 @@
 # bitcoin_tracker
 
-A Bitcoin Tracking App :)
+A Bitcoin price Tracking App :)
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![For Android](https://github.com/AdityaGautam05/Bitcoin-Price-Tracker/assets/45597365/d7fa4efe-adf6-48fc-b5cb-8df333e282e1)
 
-A few resources to get you started if this is your first Flutter project:
+![For iOS](https://github.com/AdityaGautam05/Bitcoin-Price-Tracker/assets/45597365/9fd08493-671d-4f98-b741-73121a7857b5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

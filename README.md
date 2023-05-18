@@ -1,4 +1,4 @@
-# bitcoin_tracker
+# Bitcoin Price Tracker
 
 A Bitcoin price Tracking App :)
 
